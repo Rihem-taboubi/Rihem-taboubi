@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🚀 I am a student pursuing an Engineer Degree in Software Engineering at MedTech! I aim for continuous improvement in my learning experience and I enjoy problem solving.
+🚀 I am a student pursuing an Engineer's Degree in Software Engineering at MedTech! I aim for continuous improvement in my learning experience and I enjoy problem solving.
 
 [🏠 My Portfolio](https://google.com/) | [📧 Email](mailto:taboubirihe04@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/taboubi-rihem-3a3782231/) | [📄 Resume](https://github.com/Rihem-taboubi/Rihem-taboubi/raw/b3192abddc9a308284d627d24a90243e325e8ff0/Resume-Taboubi-Rihem(1).pdf)
 
@@ -18,8 +18,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768F.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## Java Frameworks:
+## Java Libraries and Frameworks:
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JUnit](https://img.shields.io/badge/JUnit-%23007ACC.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Web Technologies:
@@ -29,6 +30,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
 ## Backend and Databases:
 ![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logo=firebase&logoColor=white) 
@@ -44,12 +47,6 @@
 ## Web Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Bash Scripting](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-
-## Package Managers:
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-
-## State Management:
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
 ## Operating Systems:
 ![Linux](https://img.shields.io/badge/linux-%231572B6.svg?style=for-the-badge&logo=linux&logoColor=white) 
