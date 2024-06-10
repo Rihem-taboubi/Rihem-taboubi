@@ -2,7 +2,7 @@
 
 🚀 I am a student pursuing an Engineer's Degree in Software Engineering at MedTech! I aim for continuous improvement in my learning experience and I enjoy problem solving.
 
-[🏠 My Portfolio]([https://google.com/](https://taboubirihe04.wixsite.com/rihem-taboubi-protfo)) | [📧 Email](mailto:taboubirihe04@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/taboubi-rihem-3a3782231/) | [📄 Resume](https://github.com/Rihem-taboubi/Rihem-taboubi/raw/b3192abddc9a308284d627d24a90243e325e8ff0/Resume-Taboubi-Rihem(1).pdf)
+[🏠 My Portfolio](https://taboubirihe04.wixsite.com/rihem-taboubi-protfo) | [📧 Email](mailto:taboubirihe04@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/taboubi-rihem-3a3782231/) | [📄 Resume](https://github.com/Rihem-taboubi/Rihem-taboubi/raw/b3192abddc9a308284d627d24a90243e325e8ff0/Resume-Taboubi-Rihem(1).pdf)
 
 # 💻 Technical Skills:
 
